@@ -172,6 +172,26 @@ header, nav, article, footer{
     font: 1em "montserrat", sans-serif;
     line-height: 1.5;
 }
+
+.mainarticle2{
+    background: #432818;
+    background-repeat: no-repeat;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    color: #fff;
+    border-radius: 25px;
+}
+
+.mainarticle2 h1{
+    font: 3em "montserrat", sans-serif;
+}
+
+.mainarticle2 p{
+    font: 1em "montserrat", sans-serif;
+    line-height: 1.5;
+}
     #cover{
         float: left;
         height: 50%;
