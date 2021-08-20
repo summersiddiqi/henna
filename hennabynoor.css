@@ -182,6 +182,7 @@ header, nav, article, footer{
     overflow: hidden;
     color: #fff;
     border-radius: 25px;
+    text-align: center;
 }
 
 .mainarticle2 h1{
@@ -191,6 +192,7 @@ header, nav, article, footer{
 .mainarticle2 p{
     font: 1em "montserrat", sans-serif;
     line-height: 1.5;
+    text-align: left;
 }
     #cover{
         float: left;
