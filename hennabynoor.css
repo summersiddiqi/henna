@@ -296,7 +296,7 @@ input[type="submit"]{
     margin-right: 1em;
 }
 @media screen and (max-width:570px){
-    #char1, #char2, #char3, #char4{
+    #char1, #char2, #char3, #char4, #char5, #char6, #char7{
         height: 100%;
         width: 100%;
     }
